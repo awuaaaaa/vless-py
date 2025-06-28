@@ -1,7 +1,8 @@
-https://dashuai.us/api/v1/client/subscribe?token=4bad77fc881eacf161364ba07fb6faca
-https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=aac3414afa07cfd50cdac5b6a2f25e1c
 https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=3311d2722a5c5058cb9897d241b3e00d
+https://dashuai.us/api/v1/client/subscribe?token=c4ff672d356df98c50cc374a65eb4a88
 https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=9d6f647e4d0bd019ef4a5aeecfc81ee2
-https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=c809617d8bb3d428a8a90a8ff3df8502
+https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=aac3414afa07cfd50cdac5b6a2f25e1c
 https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=e63a728a24202024ae7757007c5a5a6b
+https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=7863fe92c71dcd732162aed05d05ab76
+https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=c809617d8bb3d428a8a90a8ff3df8502
 https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=2326f1f78944057ca165dd869328c02b
