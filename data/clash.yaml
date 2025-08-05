@@ -1,71 +1,68 @@
 proxies:
-  - {name: 🇰🇷 韩国-三网优化2-1Q, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 35f31993-dc29-4930-8f23-a6598fc69a7b, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇹🇼 IEPL专线 台湾2, server: dzgz.tcity8.monster, port: 35224, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国 专线NO1, server: haa.dashuai.cyou, port: 45076, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1K, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ef833919-6c3d-4edf-b3aa-10bd1ffc0f9d, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇮🇳 印度1, server: haa.dashuai.cyou, port: 45074, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 IEPL专线 香港6, server: dzgz.tcity8.monster, port: 35214, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇦🇺 澳大利亚原生1, server: haa.dashuai.cyou, port: 45062, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1O, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 40f6ea07-cd7a-40e9-b4e8-a54f9daadad6, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 IEPL专线 日本1, server: jzgz.tcity8.monster, port: 22235, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 IEPL专线 香港5, server: jzgz.tcity8.monster, port: 22003, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1N, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 4ddb8f2d-9006-419e-b748-9e3299a696c3, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇩🇪 IEPL专线 德国1, server: jzgz.tcity8.monster, port: 22230, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇮🇳 IEPL专线 印度2, server: dzgz.tcity8.monster, port: 35223, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇸🇬 新加坡NO.2, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1R, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 8b21cbcd-931a-410a-9c11-ecb252762fcb, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 IEPL专线 香港4, server: dzgz.tcity8.monster, port: 35213, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 香港NO.1, server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇮🇳 IEPL专线 印度1, server: jzgz.tcity8.monster, port: 22238, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 IEPL专线 香港2, server: dzgz.tcity8.monster, port: 35212, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1E, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 8e400949-d519-4fd2-aa90-b5a7a5fe5890, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇩🇪 IEPL专线 德国2, server: dzgz.tcity8.monster, port: 35222, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇹🇭 泰国NO2, server: xdd.dashuai.cyou, port: 45061, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇨🇦 IEPL专线 加拿大1, server: jzgz.tcity8.monster, port: 22236, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇯🇵 IEPL专线 日本2, server: dzgz.tcity8.monster, port: 35218, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇨🇦 IEPL专线 加拿大2, server: dzgz.tcity8.monster, port: 35216, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇹🇼 台湾2, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1J, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 36999ffb-69f9-46fd-8743-fe383e312be4, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇦 加拿大1, server: haa.dashuai.cyou, port: 45064, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇯🇵 日本NO.1, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇺🇸 美国NO.2, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 IEPL专线 香港3, server: jzgz.tcity8.monster, port: 22226, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇨🇦 加拿大2, server: xdd.dashuai.cyou, port: 45065, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1M, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: f93fe4d6-2e1a-43e5-94e2-d2e19ca7b407, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1A, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: b97b6279-4258-46f6-b916-d7c22779a7c5, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇺🇸 IEPL专线 美国原生1, server: jzgz.tcity8.monster, port: 22000, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1H, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 2cab1fcd-47c0-4d0b-a9ca-4527cf3af92a, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1S, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 393abd22-6fcd-4c49-af7d-fdfc33b113b2, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇦🇺 IEPL专线 澳大利亚2, server: dzgz.tcity8.monster, port: 35220, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇫🇷 法国1, server: haa.dashuai.cyou, port: 45072, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇸🇬 IEPL专线 新加坡1, server: jzgz.tcity8.monster, port: 22231, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇦🇺 IEPL专线 澳大利亚1, server: jzgz.tcity8.monster, port: 22237, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇫🇷 法国2, server: xdd.dashuai.cyou, port: 45071, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇺🇸 IEPL专线 美国原生4, server: dzgz.tcity8.monster, port: 35208, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇺🇸 IEPL专线 美国原生2, server: dzgz.tcity8.monster, port: 35209, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇹🇼 台湾1, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇸🇬 IEPL专线 新加坡2, server: dzgz.tcity8.monster, port: 35217, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1I, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 83d4ff62-397d-42ce-89a2-1dc9d94f11fc, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇮🇳 印度2, server: xdd.dashuai.cyou, port: 45073, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1F, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 66ee179b-b07b-4834-bfcc-0cbaa91ef10b, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1B, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 9465d645-99f0-4227-8d51-0308cf4f44f8, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1L, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 21d3e5d9-9f51-4b91-b588-b981e72396ba, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国 专线NO2, server: xdd.dashuai.cyou, port: 45075, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇬🇧 英国2, server: xdd.dashuai.cyou, port: 45067, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1P, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 9158bc70-4ada-494d-8173-8f6e85445d9f, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 IEPL专线 香港1, server: jzgz.tcity8.monster, port: 22224, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1C, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 8fc9afaf-4ba1-41d8-9a6f-1d81f4b0dcc4, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国NO.1, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 香港NO.2, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇸🇬 新加坡NO.1, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇦🇺 澳大利亚原生2, server: xdd.dashuai.cyou, port: 45063, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇺🇸 IEPL专线 美国原生3, server: jzgz.tcity8.monster, port: 22002, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇹🇼 IEPL专线 台湾1, server: jzgz.tcity8.monster, port: 22240, type: vmess, uuid: ba125694-1cc2-40f3-9ef6-cd6d40a0f120, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1D, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ab998459-bfaf-43d4-b042-153c9fc1ad45, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇲🇾 马来西亚专线NO1, server: haa.dashuai.cyou, port: 45058, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇹🇭 泰国NO1, server: haa.dashuai.cyou, port: 45060, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇲🇾 马来西亚专线NO2, server: xdd.dashuai.cyou, port: 45059, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇯🇵 日本NO.2, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1G, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 8aa0eccc-577d-4e8d-b955-9bcf27715d06, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 英国1, server: haa.dashuai.cyou, port: 45066, type: vmess, uuid: 40008682-71a8-4e67-98c6-3854d7382898, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1F, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 393abd22-6fcd-4c49-af7d-fdfc33b113b2, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 IEPL专线 美国原生2, server: dzgz.tcity8.monster, port: 35209, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇯🇵 IEPL专线 日本2, server: dzgz.tcity8.monster, port: 35218, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1N, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 8b21cbcd-931a-410a-9c11-ecb252762fcb, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 加拿大2, server: xdd.dashuai.cyou, port: 45065, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇬🇧 英国1, server: haa.dashuai.cyou, port: 45066, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇮🇳 印度2, server: xdd.dashuai.cyou, port: 45073, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇸🇬 IEPL专线 新加坡2, server: dzgz.tcity8.monster, port: 35217, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇹🇼 IEPL专线 台湾1, server: jzgz.tcity8.monster, port: 22240, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 IEPL专线 香港3, server: jzgz.tcity8.monster, port: 22226, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇨🇦 IEPL专线 加拿大1, server: jzgz.tcity8.monster, port: 22236, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇫🇷 法国1, server: haa.dashuai.cyou, port: 45072, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇹🇼 IEPL专线 台湾2, server: dzgz.tcity8.monster, port: 35224, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇯🇵 IEPL专线 日本1, server: jzgz.tcity8.monster, port: 22235, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1C, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 4ddb8f2d-9006-419e-b748-9e3299a696c3, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1K, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 66ee179b-b07b-4834-bfcc-0cbaa91ef10b, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1D, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 40f6ea07-cd7a-40e9-b4e8-a54f9daadad6, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇹🇼 台湾1, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1P, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 83d4ff62-397d-42ce-89a2-1dc9d94f11fc, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国NO.2, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇬🇧 英国2, server: xdd.dashuai.cyou, port: 45067, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇦🇺 IEPL专线 澳大利亚1, server: jzgz.tcity8.monster, port: 22237, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇸🇬 新加坡NO.1, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国 专线NO1, server: haa.dashuai.cyou, port: 45076, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1G, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 36999ffb-69f9-46fd-8743-fe383e312be4, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 IEPL专线 新加坡1, server: jzgz.tcity8.monster, port: 22231, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1B, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 35f31993-dc29-4930-8f23-a6598fc69a7b, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1M, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 21d3e5d9-9f51-4b91-b588-b981e72396ba, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇦🇺 澳大利亚原生1, server: haa.dashuai.cyou, port: 45062, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1R, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 9465d645-99f0-4227-8d51-0308cf4f44f8, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 IEPL专线 美国原生3, server: jzgz.tcity8.monster, port: 22002, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇯🇵 日本NO.2, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1S, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 8fc9afaf-4ba1-41d8-9a6f-1d81f4b0dcc4, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1T, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 814a4a64-b2a6-405b-9f60-962d84d454f3, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 IEPL专线 香港6, server: dzgz.tcity8.monster, port: 35214, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1E, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 2cab1fcd-47c0-4d0b-a9ca-4527cf3af92a, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇳 IEPL专线 印度2, server: dzgz.tcity8.monster, port: 35223, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1H, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 8e400949-d519-4fd2-aa90-b5a7a5fe5890, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇳 IEPL专线 印度1, server: jzgz.tcity8.monster, port: 22238, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇮🇳 印度1, server: haa.dashuai.cyou, port: 45074, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇩🇪 IEPL专线 德国1, server: jzgz.tcity8.monster, port: 22230, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇨🇦 IEPL专线 加拿大2, server: dzgz.tcity8.monster, port: 35216, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇸🇬 新加坡NO.2, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇩🇪 IEPL专线 德国2, server: dzgz.tcity8.monster, port: 35222, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1J, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 8aa0eccc-577d-4e8d-b955-9bcf27715d06, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港NO.1, server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1O, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ef833919-6c3d-4edf-b3aa-10bd1ffc0f9d, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 IEPL专线 美国原生1, server: jzgz.tcity8.monster, port: 22000, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1I, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: f93fe4d6-2e1a-43e5-94e2-d2e19ca7b407, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 IEPL专线 香港4, server: dzgz.tcity8.monster, port: 35213, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇨🇦 加拿大1, server: haa.dashuai.cyou, port: 45064, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 IEPL专线 香港2, server: dzgz.tcity8.monster, port: 35212, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国 专线NO2, server: xdd.dashuai.cyou, port: 45075, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 香港NO.2, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇦🇺 澳大利亚原生2, server: xdd.dashuai.cyou, port: 45063, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1A, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ab998459-bfaf-43d4-b042-153c9fc1ad45, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 IEPL专线 美国原生4, server: dzgz.tcity8.monster, port: 35208, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇺🇸 美国NO.1, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇦🇺 IEPL专线 澳大利亚2, server: dzgz.tcity8.monster, port: 35220, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇫🇷 法国2, server: xdd.dashuai.cyou, port: 45071, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1L, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 9158bc70-4ada-494d-8173-8f6e85445d9f, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1Q, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: b97b6279-4258-46f6-b916-d7c22779a7c5, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 IEPL专线 香港1, server: jzgz.tcity8.monster, port: 22224, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 IEPL专线 香港5, server: jzgz.tcity8.monster, port: 22003, type: vmess, uuid: 68e4eaaf-ef10-4357-b030-01f6cb476fbe, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇹🇼 台湾2, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇯🇵 日本NO.1, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: e1f03792-60f2-48b4-ba37-5dbe7d925aa5, alterId: 0, cipher: auto, tls: false, udp: true}
