@@ -1,42 +1,43 @@
 proxies:
-  - {name: 🇰🇷 韩国-三网优化2-1O, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 80c4cda0-11a3-44bf-bd72-f76eb0ced0ae, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 新加坡NO.1, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇬🇧 英国2, server: xdd.dashuai.cyou, port: 45067, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇦🇺 澳大利亚原生2, server: xdd.dashuai.cyou, port: 45063, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1N, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: e11f2de3-6943-470b-aeee-44c87ad567b3, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇫🇷 法国, server: fg.dashuai.cyou, port: 19901, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1F, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 0727e8d3-e53d-4ca5-af7d-5feac764dd1d, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港NO.2, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1J, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ffe29a59-b0ea-4daf-8939-cb4725cfc648, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇳 印度2, server: xdd.dashuai.cyou, port: 45073, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇬🇧 英国1, server: haa.dashuai.cyou, port: 45066, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1H, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: c2b1f66e-22e4-42a3-9d94-e956c8e81a2e, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国NO.1, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇸🇬 新加坡NO.2, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1G, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ee1ae2e1-2d2f-45b8-8574-52e64956b27a, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1I, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 8692928b-01a2-41cb-a6ce-668981415a71, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1L, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 46308dee-bee4-49d2-9734-ed115bbfb5f2, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
   - {name: 🇰🇷 韩国-三网优化2-1E, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: bdbd2110-7451-4c8b-8d49-e63288b22c18, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1A, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 69ddd750-9f30-46e2-9fcd-35d220c308ba, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 新加坡NO.2, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇹🇼 3x备用专线台湾1, server: xh.dashuai.cyou, port: 50050, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 香港NO.1, server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇨🇦 加拿大1, server: haa.dashuai.cyou, port: 45064, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇺🇸 美国NO.1, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇫🇷 法国, server: fg.dashuai.cyou, port: 19901, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1G, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 8692928b-01a2-41cb-a6ce-668981415a71, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇫🇷 法国1, server: haa.dashuai.cyou, port: 45072, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1P, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: e11f2de3-6943-470b-aeee-44c87ad567b3, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1I, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ffe29a59-b0ea-4daf-8939-cb4725cfc648, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1M, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 13211ede-3e53-41f7-bc09-a715c8de4b48, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇦🇺 澳大利亚原生1, server: haa.dashuai.cyou, port: 45062, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇨🇦 加拿大2, server: xdd.dashuai.cyou, port: 45065, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1J, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 46308dee-bee4-49d2-9734-ed115bbfb5f2, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1K, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ee1ae2e1-2d2f-45b8-8574-52e64956b27a, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1H, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ad9bafe6-4844-4720-bab3-f627537e8fbc, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 英国1, server: haa.dashuai.cyou, port: 45066, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1C, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: b8e33113-cfd2-4a04-b72d-9df8147b802b, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国 专线NO2, server: xdd.dashuai.cyou, port: 45075, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 3x备用专线香港1, server: xh.dashuai.cyou, port: 50051, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1N, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 6350d563-0a66-433a-939d-2f0711d07cfb, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇮🇳 印度1, server: haa.dashuai.cyou, port: 45074, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇺🇸 美国NO.2, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇯🇵 日本NO.1, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇸🇬 新加坡NO.1, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇹🇼 台湾2, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇮🇳 印度2, server: xdd.dashuai.cyou, port: 45073, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇹🇼 台湾1, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇬🇧 英国2, server: xdd.dashuai.cyou, port: 45067, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1D, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 0727e8d3-e53d-4ca5-af7d-5feac764dd1d, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1F, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 3b78a7ad-719a-4eae-a481-62a2800f57a6, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇳 印度1, server: haa.dashuai.cyou, port: 45074, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇯🇵 日本NO.1, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1M, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 3b78a7ad-719a-4eae-a481-62a2800f57a6, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国NO.2, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1Q, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: eceb90ce-9882-4e15-b3c9-2ece34b3e2b3, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
   - {name: 🇰🇷 韩国-三网优化2-1B, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: fd7ad457-b8d0-4442-8fc4-abad037e5c73, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国 专线NO1, server: haa.dashuai.cyou, port: 45076, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇦🇺 澳大利亚原生2, server: xdd.dashuai.cyou, port: 45063, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇯🇵 日本NO.2, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 香港NO.2, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇫🇷 法国2, server: xdd.dashuai.cyou, port: 45071, type: vmess, uuid: 8022bcc1-e902-4cb2-9a00-464cd28554e5, alterId: 0, cipher: auto, tls: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1L, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: c2b1f66e-22e4-42a3-9d94-e956c8e81a2e, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1P, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 13211ede-3e53-41f7-bc09-a715c8de4b48, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1O, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ad9bafe6-4844-4720-bab3-f627537e8fbc, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇫🇷 法国2, server: xdd.dashuai.cyou, port: 45071, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 3x备用专线香港1, server: xh.dashuai.cyou, port: 50051, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1A, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: b8e33113-cfd2-4a04-b72d-9df8147b802b, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 加拿大1, server: haa.dashuai.cyou, port: 45064, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇫🇷 法国1, server: haa.dashuai.cyou, port: 45072, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇹🇼 3x备用专线台湾1, server: xh.dashuai.cyou, port: 50050, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1D, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 6350d563-0a66-433a-939d-2f0711d07cfb, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇦🇺 澳大利亚原生1, server: haa.dashuai.cyou, port: 45062, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇹🇼 台湾2, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1K, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 69ddd750-9f30-46e2-9fcd-35d220c308ba, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国 专线NO1, server: haa.dashuai.cyou, port: 45076, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇯🇵 日本NO.2, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1C, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 80c4cda0-11a3-44bf-bd72-f76eb0ced0ae, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 加拿大2, server: xdd.dashuai.cyou, port: 45065, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 韩国 专线NO2, server: xdd.dashuai.cyou, port: 45075, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇹🇼 台湾1, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 香港NO.1, server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: df55ae9b-c28c-4ba2-81f4-d4b01691b89b, alterId: 0, cipher: auto, tls: false, udp: true}
