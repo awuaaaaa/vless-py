@@ -1,2 +1,2 @@
-https://dashuai.us/api/v1/client/subscribe?token=116e8d4652098d565e1a0efd0b0caee2
-https://xn--mesz5hn9e3rh.com/api/v1/client/subscribe?token=7c4ad04bfa7d74a7b2d5254c5e45c80b
+https://xn--mesz5hn9e3rh.com/api/v1/client/subscribe?token=1ec186b96e59f30f09410b71105065d1
+https://dashuai.us/api/v1/client/subscribe?token=c57fdcd5ffbb6d9e388d842ce273095c
